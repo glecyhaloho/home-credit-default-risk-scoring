@@ -1,0 +1,29 @@
+{
+  "model": "LightGBM",
+  "auc": 0.7864363894033857,
+  "ks": 0.43694937041514953,
+  "chosen_threshold": 0.4558076455579461,
+  "precision_at_threshold": 0.18468515429524604,
+  "recall_at_threshold": 0.713595166163142,
+  "f1_at_threshold": 0.29342829930846,
+  "confusion_matrix": [
+    [
+      40897,
+      15641
+    ],
+    [
+      1422,
+      3543
+    ]
+  ],
+  "best_params": {
+    "colsample_bytree": 0.7427013306774357,
+    "learning_rate": 0.035284105871864264,
+    "min_child_samples": 143,
+    "num_leaves": 60,
+    "reg_alpha": 0.14092422497476265,
+    "reg_lambda": 4.010984903770199,
+    "subsample": 0.6298202574719083
+  },
+  "cv_auc": 0.7798852584302048
+}

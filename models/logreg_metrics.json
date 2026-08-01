@@ -1,0 +1,23 @@
+{
+  "model": "LogisticRegression",
+  "auc": 0.7718164154280002,
+  "ks": 0.4090738426974602,
+  "chosen_threshold": 0.5113879575246905,
+  "precision_at_threshold": 0.17785060341240116,
+  "recall_at_threshold": 0.6886203423967775,
+  "f1_at_threshold": 0.2826904791434123,
+  "confusion_matrix": [
+    [
+      40733,
+      15805
+    ],
+    [
+      1546,
+      3419
+    ]
+  ],
+  "best_params": {
+    "C": 0.01
+  },
+  "cv_auc": 0.7674857802685547
+}

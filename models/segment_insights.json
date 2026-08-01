@@ -1,0 +1,530 @@
+{
+  "NAME_INCOME_TYPE": [
+    {
+      "NAME_INCOME_TYPE": "Pensioner",
+      "n": 55362,
+      "default_rate": 0.053863661,
+      "share_pct": 18.00325842
+    },
+    {
+      "NAME_INCOME_TYPE": "State servant",
+      "n": 21703,
+      "default_rate": 0.0575496475,
+      "share_pct": 7.0576337107
+    },
+    {
+      "NAME_INCOME_TYPE": "Commercial associate",
+      "n": 71617,
+      "default_rate": 0.0748425653,
+      "share_pct": 23.2892481895
+    },
+    {
+      "NAME_INCOME_TYPE": "Working",
+      "n": 158774,
+      "default_rate": 0.0958847166,
+      "share_pct": 51.6319741408
+    }
+  ],
+  "NAME_EDUCATION_TYPE": [
+    {
+      "NAME_EDUCATION_TYPE": "Higher education",
+      "n": 74863,
+      "default_rate": 0.0535511534,
+      "share_pct": 24.3448201853
+    },
+    {
+      "NAME_EDUCATION_TYPE": "Incomplete higher",
+      "n": 10277,
+      "default_rate": 0.0848496643,
+      "share_pct": 3.3419942701
+    },
+    {
+      "NAME_EDUCATION_TYPE": "Secondary / secondary special",
+      "n": 218391,
+      "default_rate": 0.0893992884,
+      "share_pct": 71.0189229003
+    },
+    {
+      "NAME_EDUCATION_TYPE": "Lower secondary",
+      "n": 3816,
+      "default_rate": 0.1092767296,
+      "share_pct": 1.2409312187
+    }
+  ],
+  "OCCUPATION_TYPE": [
+    {
+      "OCCUPATION_TYPE": "Accountants",
+      "n": 9813,
+      "default_rate": 0.0483032712,
+      "share_pct": 4.6480674498
+    },
+    {
+      "OCCUPATION_TYPE": "High skill tech staff",
+      "n": 11380,
+      "default_rate": 0.061599297,
+      "share_pct": 5.3902993558
+    },
+    {
+      "OCCUPATION_TYPE": "Managers",
+      "n": 21371,
+      "default_rate": 0.0621402836,
+      "share_pct": 10.1226790451
+    },
+    {
+      "OCCUPATION_TYPE": "Core staff",
+      "n": 27570,
+      "default_rate": 0.0630395357,
+      "share_pct": 13.0589238348
+    },
+    {
+      "OCCUPATION_TYPE": "HR staff",
+      "n": 563,
+      "default_rate": 0.0639431616,
+      "share_pct": 0.2666729822
+    },
+    {
+      "OCCUPATION_TYPE": "IT staff",
+      "n": 526,
+      "default_rate": 0.0646387833,
+      "share_pct": 0.2491474043
+    },
+    {
+      "OCCUPATION_TYPE": "Private service staff",
+      "n": 2652,
+      "default_rate": 0.0659879336,
+      "share_pct": 1.2561576355
+    },
+    {
+      "OCCUPATION_TYPE": "Medicine staff",
+      "n": 8537,
+      "default_rate": 0.0670024599,
+      "share_pct": 4.0436718454
+    },
+    {
+      "OCCUPATION_TYPE": "Secretaries",
+      "n": 1305,
+      "default_rate": 0.0704980843,
+      "share_pct": 0.6181318681
+    },
+    {
+      "OCCUPATION_TYPE": "Realty agents",
+      "n": 751,
+      "default_rate": 0.0785619174,
+      "share_pct": 0.3557218643
+    },
+    {
+      "OCCUPATION_TYPE": "Cleaning staff",
+      "n": 4653,
+      "default_rate": 0.0960670535,
+      "share_pct": 2.2039598333
+    },
+    {
+      "OCCUPATION_TYPE": "Sales staff",
+      "n": 32102,
+      "default_rate": 0.0963179864,
+      "share_pct": 15.2055702918
+    }
+  ],
+  "ORGANIZATION_TYPE": [
+    {
+      "ORGANIZATION_TYPE": "Trade: type 6",
+      "n": 631,
+      "default_rate": 0.0459587956,
+      "share_pct": 0.2051959117
+    },
+    {
+      "ORGANIZATION_TYPE": "Security Ministries",
+      "n": 1974,
+      "default_rate": 0.0486322188,
+      "share_pct": 0.6419282562
+    },
+    {
+      "ORGANIZATION_TYPE": "University",
+      "n": 1327,
+      "default_rate": 0.0489826677,
+      "share_pct": 0.4315292786
+    },
+    {
+      "ORGANIZATION_TYPE": "Police",
+      "n": 2341,
+      "default_rate": 0.0499786416,
+      "share_pct": 0.7612735805
+    },
+    {
+      "ORGANIZATION_TYPE": "Military",
+      "n": 2634,
+      "default_rate": 0.0512528474,
+      "share_pct": 0.8565547249
+    },
+    {
+      "ORGANIZATION_TYPE": "Bank",
+      "n": 2507,
+      "default_rate": 0.0518548065,
+      "share_pct": 0.8152553892
+    },
+    {
+      "ORGANIZATION_TYPE": "XNA",
+      "n": 55374,
+      "default_rate": 0.0539964604,
+      "share_pct": 18.0071607195
+    },
+    {
+      "ORGANIZATION_TYPE": "Insurance",
+      "n": 597,
+      "default_rate": 0.0569514238,
+      "share_pct": 0.1941393966
+    },
+    {
+      "ORGANIZATION_TYPE": "School",
+      "n": 8893,
+      "default_rate": 0.0591476442,
+      "share_pct": 2.8919290692
+    },
+    {
+      "ORGANIZATION_TYPE": "Hotel",
+      "n": 966,
+      "default_rate": 0.0641821946,
+      "share_pct": 0.3141351041
+    },
+    {
+      "ORGANIZATION_TYPE": "Medicine",
+      "n": 11193,
+      "default_rate": 0.0658447244,
+      "share_pct": 3.6398697933
+    },
+    {
+      "ORGANIZATION_TYPE": "Services",
+      "n": 1575,
+      "default_rate": 0.066031746,
+      "share_pct": 0.5121768002
+    }
+  ],
+  "CODE_GENDER": [
+    {
+      "CODE_GENDER": "F",
+      "n": 202448,
+      "default_rate": 0.0699932822,
+      "share_pct": 65.834392916
+    },
+    {
+      "CODE_GENDER": "M",
+      "n": 105059,
+      "default_rate": 0.1014192025,
+      "share_pct": 34.1643063175
+    }
+  ],
+  "NAME_HOUSING_TYPE": [
+    {
+      "NAME_HOUSING_TYPE": "Office apartment",
+      "n": 2617,
+      "default_rate": 0.0657241116,
+      "share_pct": 0.8510264673
+    },
+    {
+      "NAME_HOUSING_TYPE": "House / apartment",
+      "n": 272868,
+      "default_rate": 0.0779571075,
+      "share_pct": 88.7343867374
+    },
+    {
+      "NAME_HOUSING_TYPE": "Co-op apartment",
+      "n": 1122,
+      "default_rate": 0.0793226381,
+      "share_pct": 0.3648649967
+    },
+    {
+      "NAME_HOUSING_TYPE": "Municipal apartment",
+      "n": 11183,
+      "default_rate": 0.0853974783,
+      "share_pct": 3.6366178771
+    },
+    {
+      "NAME_HOUSING_TYPE": "With parents",
+      "n": 14840,
+      "default_rate": 0.1169811321,
+      "share_pct": 4.8258436284
+    },
+    {
+      "NAME_HOUSING_TYPE": "Rented apartment",
+      "n": 4881,
+      "default_rate": 0.123130506,
+      "share_pct": 1.5872602931
+    }
+  ],
+  "NAME_FAMILY_STATUS": [
+    {
+      "NAME_FAMILY_STATUS": "Widow",
+      "n": 16088,
+      "default_rate": 0.0582421681,
+      "share_pct": 5.2316827691
+    },
+    {
+      "NAME_FAMILY_STATUS": "Married",
+      "n": 196432,
+      "default_rate": 0.0755986805,
+      "share_pct": 63.8780401351
+    },
+    {
+      "NAME_FAMILY_STATUS": "Separated",
+      "n": 19770,
+      "default_rate": 0.0819423369,
+      "share_pct": 6.4290383108
+    },
+    {
+      "NAME_FAMILY_STATUS": "Single / not married",
+      "n": 45444,
+      "default_rate": 0.0980767538,
+      "share_pct": 14.7780079412
+    },
+    {
+      "NAME_FAMILY_STATUS": "Civil marriage",
+      "n": 29775,
+      "default_rate": 0.0994458438,
+      "share_pct": 9.6825804605
+    }
+  ],
+  "CREDIT_TERM": [
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.0211,
+        "length": 0.0158,
+        "mid": 0.029,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.0369
+      },
+      "n": 76942,
+      "default_rate": 0.0662706974
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.0369,
+        "length": 0.0131,
+        "mid": 0.04345,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.05
+      },
+      "n": 82837,
+      "default_rate": 0.0882335188
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.05,
+        "length": 0.014,
+        "mid": 0.057,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.064
+      },
+      "n": 70846,
+      "default_rate": 0.0787906163
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.064,
+        "length": 0.06,
+        "mid": 0.094,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.124
+      },
+      "n": 76874,
+      "default_rate": 0.0889117257
+    }
+  ],
+  "EXT_SOURCE_MEAN": [
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": -0.00099406,
+        "length": 0.41499406,
+        "mid": 0.20650297,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.414
+      },
+      "n": 76835,
+      "default_rate": 0.1728509143
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.414,
+        "length": 0.111,
+        "mid": 0.4695,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.525
+      },
+      "n": 76835,
+      "default_rate": 0.0771132947
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.525,
+        "length": 0.098,
+        "mid": 0.574,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.623
+      },
+      "n": 76834,
+      "default_rate": 0.0458260666
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.623,
+        "length": 0.256,
+        "mid": 0.751,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.879
+      },
+      "n": 76835,
+      "default_rate": 0.0271230559
+    }
+  ],
+  "ANNUITY_INCOME_RATIO": [
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": -0.000776,
+        "length": 0.115776,
+        "mid": 0.057112,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.115
+      },
+      "n": 76876,
+      "default_rate": 0.0729226286
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.115,
+        "length": 0.048,
+        "mid": 0.139,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.163
+      },
+      "n": 76887,
+      "default_rate": 0.0788169652
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.163,
+        "length": 0.066,
+        "mid": 0.196,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.229
+      },
+      "n": 76861,
+      "default_rate": 0.0853748975
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.229,
+        "length": 1.647,
+        "mid": 1.0525,
+        "open_left": true,
+        "open_right": false,
+        "right": 1.876
+      },
+      "n": 76875,
+      "default_rate": 0.0858146341
+    }
+  ],
+  "PREV_REFUSAL_RATE": [
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": -0.001,
+        "length": 0.201,
+        "mid": 0.0995,
+        "open_left": true,
+        "open_right": false,
+        "right": 0.2
+      },
+      "n": 224137,
+      "default_rate": 0.0716481438
+    },
+    {
+      "bin": {
+        "closed": "right",
+        "closed_left": false,
+        "closed_right": true,
+        "is_empty": false,
+        "left": 0.2,
+        "length": 0.8,
+        "mid": 0.6,
+        "open_left": true,
+        "open_right": false,
+        "right": 1.0
+      },
+      "n": 66920,
+      "default_rate": 0.1163478781
+    }
+  ],
+  "HAS_BUREAU_HISTORY": [
+    {
+      "HAS_BUREAU_HISTORY": 0,
+      "n": 44020,
+      "default_rate": 0.1012494321
+    },
+    {
+      "HAS_BUREAU_HISTORY": 1,
+      "n": 263491,
+      "default_rate": 0.077300553
+    }
+  ]
+}
